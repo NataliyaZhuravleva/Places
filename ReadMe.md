@@ -1,25 +1,23 @@
-# <span style="color:#0ec2b8">_ _</span>
+# <span style="color:#0ec2b8">_Places You've Been_</span>
 
-#### _  app, 10/23/2020_
+#### _Places You've Been app, 11/02/2020_
 
-#### By _**Nataliya Zhuravleva**_
+#### By _**Nataliya Zhuravleva, Harrison Stran, Patrick Osten**_
 
 ## <span style="color:#0ec2b8">Description</span>
 
-_ _
+_This website shows the places we've been. Each destination is an object with multiple properties: location, landmarks, time of year, notes. App displays those properties when a user clicks on a place's name._
 
 
 ## <span style="color:#0ec2b8">Setup/Installation Requirements</span>
 ### <span style="color:#c4f4ef">View Online</span>
-_Visit [ webpage](https://nataliyazhuravleva.github.io/^^^/) at https://nataliyazhuravleva.github.io/^^^/_ to view application on GitHub pages._
+_Visit [Places webpage](https://nataliyazhuravleva.github.io/Places/) at https://nataliyazhuravleva.github.io/Places/_ to view application on GitHub pages._
 
 ### <span style="color:#c4f4ef">Open Locally</span>
-1. _Navigate to my [ repo](https://github.com/NataliyaZhuravleva/^^^) at https://github.com/NataliyaZhuravleva/^^^_ to view the project files and commits.
+1. _Navigate to my [Places repo](https://github.com/NataliyaZhuravleva/Places) at https://github.com/NataliyaZhuravleva/Places_ to view the project files and commits.
 2. _Click on the green button labeled "Code"_ to copy repository URL.
-3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/NataliyaZhuravleva/^^^".
+3. _Clone the repository to your local machine_ by opening your machine terminal and using the command "git clone https://github.com/NataliyaZhuravleva/Places".
 4. _Click on index.html file_ to view application.
-
-
 
 ## <span style="color:#0ec2b8">Known Bugs</span>
 
@@ -27,7 +25,10 @@ _No known bags_
 
 ## <span style="color:#0ec2b8">Support and contact details</span>
 
-_If you have any questions, ideas or concerns, please, contact me at [natalindria@gmail.com](mailto:natalindria@gmail.com)_
+_If you have any questions, ideas or concerns, please, contact us:_
+* _Nataliya Zhuravleva at [natalindria@gmail.com](mailto:natalindria@gmail.com)_
+* _Harrison Strand at [harrisonstrand@gmail.com](mailto:harrisonstrand@gmail.com)_
+* _Patrick Osten at [patrickosten040@gmail.com](mailto:patrickosten040@gmail.com)_
 
 ## <span style="color:#0ec2b8">Specs</span>
 
@@ -77,4 +78,4 @@ Describe: click();
 
 *This software is licensed under the [MIT](https://choosealicense.com/licenses/mit/) license*
 
-Copyright (c) 2020 **_Nataliya Zhuravleva_**
+Copyright (c) 2020 **_Nataliya Zhuravleva, Harrison Stran, Patrick Osten_**
